@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ronak Kudal
+#                                                            Hi 👋, I'm Ronak Kudal
 
 ### AI/ML Engineer | Generative AI | RAG | AI Agents
 
@@ -33,3 +33,5 @@ LLMs, RAG pipelines, and AI Agents.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronak%20Kudal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ronak-k-2b1974214/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-ronak__kudal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ronak_kudal/)
+
+[![Leet-Code](https://leetcode.com/u/Ronakkudal1409/)
