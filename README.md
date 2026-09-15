@@ -31,7 +31,7 @@ LLMs, RAG pipelines, and AI Agents.
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronak%20Kudal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ronak-k-2b1974214/)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-Ronakkudal1409-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Ronakkudal1409/)
 [![Instagram](https://img.shields.io/badge/Instagram-ronak__kudal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ronak_kudal/)
 
-[![Leet-Code](https://leetcode.com/u/Ronakkudal1409/)
+
